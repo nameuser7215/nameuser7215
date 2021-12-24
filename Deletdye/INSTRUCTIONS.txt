@@ -1,0 +1,10 @@
+Hello there
+I'm here to guide you through this program.
+The selection has not been selected yet, so you'll have to modify which file to delete.
+But in the future, you'll be able to browse for the program.
+Let's begin!
+Right click on the batch file, and click on Edit
+DO NOT CHANGE ANY CODE!!! ONLY CHANGE THE FILE YOU WANT TO DELETE!!! (you have to do it manually yourself.)
+Once you do that, run the shortcut or batch filed.
+The batch file must be stored inside the folder, otherwise the program will not work.
+Good luck, mate.
