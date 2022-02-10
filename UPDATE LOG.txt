@@ -1,4 +1,0 @@
-V1.0:
--Deletdye released to the public.
-V1.0.1:
--Improved the option mechanic
